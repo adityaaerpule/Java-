@@ -1,11 +1,13 @@
 package system;
 
 import java.sql.SQLOutput;
+import java.util.Scanner;
 
 public class Notificatipon {
+    public static void main(String[] args) {
 
-    public static void main(String gg[])
-    {
         System.out.println("Dsdds");
+        Scanner sc = new Scanner(System.in);
+
     }
 }
